@@ -1,1 +1,1 @@
-# IBM_DS_2025
+Repository for IBM DS Projects 
